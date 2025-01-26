@@ -2,8 +2,8 @@
 
 ### This repository contains Python example of code generation many programming languages using Ollama AI model **qwen2.5-coder:32b**.
 
-### Install Ollama on your computer from link 
-    [https://ollama.com/download](https://ollama.com/download)
+### Install Ollama on your computer from link. Select version for OS. 
+    https://ollama.com/download
 
 <h2 align="left">Vincenzo Amoruso <cite>2024</cite></h2>
 
