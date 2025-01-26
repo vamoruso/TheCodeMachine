@@ -1,6 +1,6 @@
 # The Code Machine
 
-### This repository contains example of code generation many programming languages.
+### This repository contains Python example of code generation many programming languages using Ollama AI model **qwen2.5-coder:32b**.
 
 
 <h2 align="left">Vincenzo Amoruso <cite>2024</cite></h2>
