@@ -1,0 +1,46 @@
+     H DFTACTGRP(*NO) ACTGRP(*NEW)
+
+
+
+     // Define a data structure for output
+
+     D HelloString     S             12A   VALUE(\'Hello World!\')
+
+
+
+     /FREE
+
+         // Print the string to the console
+
+         DSPLY HelloString;
+
+
+
+         // End of program
+
+         *INLR = *ON;
+
+     /END-FREE
+
+
+
+
+
+shell
+
+// Create a module from the RPGLE source
+
+CRTRPGMOD MODULE(MYLIB/HELLOWORLD) SRCFILE(MYLIB/QSRCSRC)
+
+
+
+// Bind the module into an ILE RPG program
+
+CRTBNDCL PGM(MYLIB/HELLOWORLD) SRCFILE(MYLIB/QSRCSRC)
+
+
+
+// Call the program
+
+CALL MYLIB/HELLOWORLD
+
