@@ -29,11 +29,11 @@
 | TypeScript | ts |
 | Visual Basic | vb |
 
-### Install Ollama on your computer from link. Select version for OS. 
-    https://ollama.com/download
+### Install Ollama on your computer from link. (Windows Version in my case) 
+[https://ollama.com/download](https://ollama.com/download)
 
-### Install Python downloadable form link  (I've selected Windows Version) 
-    https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe
+### Install Python downloadable form link  (Windows Version in my case) 
+[https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)
 
 ### Crete Virtual Python Env using command
     python -m venv D:\TheCodeMachine
