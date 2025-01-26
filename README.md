@@ -32,10 +32,21 @@
 ### Install Ollama on your computer from link. (Windows Version in my case) 
 [https://ollama.com/download](https://ollama.com/download)
 
+### Add Ollama installation path to the windows enviroment **path** variable of your computer. 
+
+### Install AI Ollama model for CODE MACHINE. Open command prompt and run 
+    ollama pull qwen2.5-coder:32b
+
+### After installation load Ollama model using command 
+    ollama run qwen2.5-coder:32b
+
+> [!NOTE]
+> Now your computer is ready to receieve request from code generation 
+
 ### Install Python downloadable form link  (Windows Version in my case) 
 [https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)
 
-### Crete Virtual Python Env using command
+### Create Virtual Python Env using command
     python -m venv D:\TheCodeMachine
 
 ### Activate virtual env 
