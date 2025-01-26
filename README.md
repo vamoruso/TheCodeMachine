@@ -1,7 +1,7 @@
 # The Code Machine
 
-### This repository contains Python example of code generation many programming languages using Ollama AI model **qwen2.5-coder:32b**.
-
+### This repository contains Python example of code generation many programming languages using Ollama AI model **qwen2.5-coder:32b** .
+### Programming Languages tested in this project are the following :  
 
 | Language  | Extension |
 | ------------- | ------------- |
