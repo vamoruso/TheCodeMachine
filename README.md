@@ -2,6 +2,33 @@
 
 ### This repository contains Python example of code generation many programming languages using Ollama AI model **qwen2.5-coder:32b**.
 
+
+| Language  | Extension |
+| ------------- | ------------- |
+| C | c |
+| C# | cs |
+| C++ | cpp |
+| CSS | css |
+| Cobol | cbl| 
+| Dart | dart |
+| Go | go |
+| HTML | html |
+| JavaScript | js |
+| Kotlin | kt |
+| Objective-C | m |
+| PHP | php |
+| Pascal | pas |
+| Perl | pl |
+| Python | py |
+| R | r |
+| RPG iSeries RPG (Report Program Generator) on IBM iSeries (AS/400) | RPG |
+| Ruby | rb |
+| Rust | rs |
+| Scala | scala |
+| Swift | swift |
+| TypeScript | ts |
+| Visual Basic | vb |
+
 ### Install Ollama on your computer from link. Select version for OS. 
     https://ollama.com/download
 
